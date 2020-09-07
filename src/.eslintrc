@@ -6,7 +6,8 @@
         "node":true
     },
     "rules": {
-
+        "semi" :"off",
+        "comma-dangle":"off"
     },
     "extends": [
         "eslint:recommended",
